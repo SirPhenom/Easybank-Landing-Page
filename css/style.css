@@ -46,7 +46,7 @@ body {
   );
   border-image-slice: 3;
 }
-/* navbar lackground on small screen */
+/* navbar background on small screen */
 .bg-gray {
   background: linear-gradient(rgba(82, 80, 26, 0.5), rgba(0, 0, 0, 0.5))
     center/cover no-repeat fixed !important;
